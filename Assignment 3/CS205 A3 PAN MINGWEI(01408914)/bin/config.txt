@@ -1,5 +1,5 @@
-1       # Number of chefs
-1       # Number of waiters
+4       # Number of chefs
+3       # Number of waiters
 10      # Number of orders
 1000    # Time of placement of a single order (milliseconds)
 5000    # Time of preparation of a single order (milliseconds)
